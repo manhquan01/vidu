@@ -21,6 +21,7 @@
 /yarn-error.log
 
 .byebug_history
+
 /cofig/database.yml
 /cofig/secrets.yml
 
@@ -31,5 +32,3 @@
 /Dockerfile
 /.framgia-ci-result.temp.yml
 /.drone.yml
-
-
